@@ -15,3 +15,11 @@ btn.addEventListener("click",function(){
     btn.classList.toggle('clicked');
     links.classList.toggle('clicked');
 })
+var match = document.querySelector(".match");
+var parent = document.querySelector(".matches");
+window.addEventListener("scroll",function(){
+    if(scrollY > 1260){
+        parent.classList.add("scrolled")
+    }
+    
+})
