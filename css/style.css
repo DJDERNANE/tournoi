@@ -152,3 +152,9 @@ ul li a{
     height: 500px;
     margin: 20px;
 }
+.matches h1{
+    text-align: center;
+    padding: 10px;
+    margin: 8px;
+color: #0d6efd;
+}
