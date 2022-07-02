@@ -152,9 +152,19 @@ ul li a{
     height: 500px;
     margin: 20px;
 }
-.matches h1{
+.matches h1, h4{
     text-align: center;
     padding: 10px;
     margin: 8px;
 color: #0d6efd;
+}
+
+.final{
+    height: 90px;
+    font-size:35px;
+   
+}
+.final div img{
+    height: 100px;
+    width: 120px;
 }
